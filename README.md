@@ -1,2 +1,2 @@
-# -Tugas_16_golang
+# Tugas_16_golang
   Mengumpulkan tugas 16 golang
